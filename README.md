@@ -4,7 +4,7 @@ Esta é a solução para o desafio [QR code component](https://www.frontendmento
 ## Links
 
 - [Repositório](https://github.com/Hayran-Guilherme/QR-code)
-- [Site](https://your-live-site-url.com)
+- [Site](https://hayran-guilherme.github.io/QR-code/)
 
 ### Built with
 
